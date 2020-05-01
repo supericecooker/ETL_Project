@@ -30,8 +30,8 @@ To compare different investment asset classes since early January to see how dif
 ## Results
 ![Asset_Trends](https://user-images.githubusercontent.com/37835407/80780252-4d55f900-8b3c-11ea-88b4-e1f5b85c3b91.png)
 
+###Findings:
 ```
-Findings:
 * AMZN (Amazon) - Saw its largest decline from February highs on March 13th, however it quickly grew after that as more people stayed home and increased ordering items online.
 * BTC (Bitcoin)- A typically risky asset, also saw steep declines very quicly between March 11 and 12, and has only been on a steady increase since. 
 * GLD (SPDR Gold ETF) - Gold is typically seen as a safe asset during times of crisis and people will rush to invest in it versus other riskier assets like stocks.  We see that here with its rise along with Amazon.
