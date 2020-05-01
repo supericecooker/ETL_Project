@@ -41,5 +41,5 @@ To compare different investment asset classes since early January to see how dif
 * SHY (iShares 1-3 Year U.S. Treasury Bond ETF) - Also considered a very safe asset in times of crisis it has never seen declines, and has only increased since mid-March.
 * SP (S&P 500) - March 23rd was the day when the S&P 500 saw it biggest lows and has been on a somewhat steady rise since.  It is still still below where it was in January however.
 * USO (United States Oil ETF) - Has only been on a decline since earlier in 2020 as less energy is consumed due to people all around the world staying home.  It never sees an increase unlike the other asset classes.
-* ZM (ZOOM) - Like Amazon and Netflix has only seen increases since mid-march as more people stay at home and use ZOOM's video calling services for everything from school, to work, to socializing (at a distance, of course).
+* ZM (ZOOM) - Like Amazon and Netflix, ZOOM has only seen increases since mid-March as more people stay at home and use ZOOM's video calling services for everything from school, to work, to socializing (at a distance, of course).
 ```
