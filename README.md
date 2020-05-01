@@ -9,10 +9,10 @@ To compare different investment asset classes since early January to see how dif
 * GLD ETF - Gold
 * USO ETF - U.S. crude oil
 * Netflix - At home entertainment
-* S&P500 - Stock market index that measures the stock performance of the 500 large companies listed on stock exchanges in the United States. A widely used indicator for stock performance, many consider it to be one of the best representations of the U.S. stock market as a whole.
+* S&P500 - Stock market index that measures the stock performance of the 500 largest U.S. companies listed on stock exchanges
 * SHY - Treasury Bond ETF
 * USO ETF - U.S. crude oil
-* ZOOM - Zoom: At home work life
+* ZOOM - Originally meant as a work tool, has become essential during the crisis for all kinds of videoconferencing
 ```
 ## ETL Steps
 * **E**xtract: We pulled original investment class sources from Yahoo Finance and [Kaggle](https://www.kaggle.com/) as CSVs.  
