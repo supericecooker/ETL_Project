@@ -1,4 +1,4 @@
-# Insights into invest asset classes during COVID
+# Insights into investment asset classes during COVID
 ## Purpose
 To compare different investment asset classes since early January to see how different classes have performed before, during, and after the recent crash due to global events surrounding the novel Coronavirus. 
 
